@@ -55,16 +55,16 @@ Created a snapshot named `Networkwalks-Kali-WK1-Setup` to preserve the completed
 ### Screenshots
 
 #### 1. Kali Linux Virtual Machine
-![Virtual Machine](screenshots/01-virtualbox-vm.png)
+<img width="1920" height="1080" alt="Virtual machine with Kali" src="https://github.com/user-attachments/assets/7e455193-bb18-4a21-92df-be4201372e18" />
 
 #### 2. Network Configuration
-![Network Setup](screenshots/02-network-setup.png)
+<img width="977" height="652" alt="Network setup" src="https://github.com/user-attachments/assets/3bf345b9-7fe4-4c71-99e3-6eb4448fb6ab" />
 
 #### 3. Terminal Commands and Connectivity Tests
-![Terminal Commands](screenshots/03-terminal-commands.png)
+<img width="1920" height="983" alt="Terminal commands" src="https://github.com/user-attachments/assets/03c6832f-2e8a-4f80-9da2-5efa95479f77" />
 
 #### 4. Virtual Machine Snapshot
-![VM Snapshot](screenshots/04-vm-snapshot.png)
+<img width="1920" height="1080" alt="VM snapshot" src="https://github.com/user-attachments/assets/28071f2e-6c90-46db-add3-9df7d363847e" />
 
 ### Learning Outcomes
 - Learned basic VirtualBox configuration.
@@ -80,11 +80,3 @@ Successfully completed the Week 1 Project Module 1 lab setup. This practical exe
 **Organization:** Networkwalks  
 **Program:** Cybersecurity Internship  
 **Module:** Week 1 – Project Module 1
-
-<img width="1920" height="1080" alt="Virtual machine with Kali" src="https://github.com/user-attachments/assets/7e455193-bb18-4a21-92df-be4201372e18" />
-<img width="977" height="652" alt="Network setup" src="https://github.com/user-attachments/assets/3bf345b9-7fe4-4c71-99e3-6eb4448fb6ab" />
-<img width="1920" height="983" alt="Terminal commands" src="https://github.com/user-attachments/assets/03c6832f-2e8a-4f80-9da2-5efa95479f77" />
-<img width="1920" height="1080" alt="VM snapshot" src="https://github.com/user-attachments/assets/28071f2e-6c90-46db-add3-9df7d363847e" />
-
-
-
